@@ -1,0 +1,2 @@
+name="Tanish"
+print(name)
